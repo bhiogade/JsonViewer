@@ -1,0 +1,14 @@
+.MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.MuiDialog-paperWidthSm {
+    max-width: unset;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeaderTitle {
+    font-weight: unset;
+}
